@@ -1,7 +1,7 @@
 # Order Managment
 
 Solução proposta para o teste técnico: Implantação do gerenciamento de pedidos
-![Teste](Teste técnico Java.png)
+![Teste](TesteTecnico.png)
 
 ## 🚀 Começando
 
